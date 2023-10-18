@@ -19,7 +19,7 @@ Password Manager 2.0 is a simple command-line application written in C for manag
 ## Prerequisites
 
 - C compiler (e.g., GCC)
-- ANSI terminal supporting escape sequences for text formatting (for colors)
+- ANSI terminal
 
 ## License
 
